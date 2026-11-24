@@ -1,2 +1,4 @@
 probe.txt export-ignore
 README2.md export-ignore
+main.ts filter=lfs diff=lfs merge=lfs -text
+
